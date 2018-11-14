@@ -7,10 +7,10 @@ import pandas as pd
 import requests
 import time 
 import tweepy
-from config import (consumer_key, 
-                    consumer_secret, 
-                    access_token, 
-                    access_token_secret)
+# from config import (consumer_key, 
+#                     consumer_secret, 
+#                     access_token, 
+#                     access_token_secret)
 
 
 # NASA MARS NEWS
